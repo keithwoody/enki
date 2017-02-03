@@ -14,3 +14,4 @@ else
   Enki::Application.config.secret_token    = 'paste your token here' # To be removed in the next version of Enki
   Enki::Application.config.secret_key_base = 'paste your token here'
 end
+bbfe0c902df5003e013db0444a58d6ba9b96249127d989cdbcb685e60c612ca5e18b538e885742d16ae6962807c7a85ffb315c72f0cbb3cbb756962e21576127
